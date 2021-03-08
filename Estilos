@@ -1,0 +1,234 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+body{
+	background: #c4c4c4;
+	font-size: 20px;
+}
+
+/* TEXTO */
+
+body p{
+	text-indent: 10px;
+	text-align: center justify;
+	font-weight: bold;
+	padding: 20px;
+	color: #373737;
+	font-family: fantasy;
+	clear: both;
+}
+
+body div.incógnita{
+		background: url("/storage/emulated/0/Proyectos-html/Proyecto1 CursoSMILE/img/Que tipos de hackers existen.jpg");
+	width: auto;
+	height: 350px;
+	color: #000000;
+	border-top: solid 20px #000000;
+	border-bottom: solid 20px #000000;
+}
+
+body div.incógnita h1{
+	font-size: 20px;
+	padding-top: 200px;
+	width: 100px;
+	padding-left: 20px;
+	text-align: center;
+	font-weight: 1000;
+	font-family: fantasy;
+	overflow: auto;
+	float: left;
+	text-shadow: 2px 2px 2px grey;
+}
+
+.Hackers ul li a{
+	font-weight: bold;
+	color: #000;
+	font-family: fantasy;
+	text-decoration: none;
+	text-shadow: 2px 2px 2px grey;
+}
+
+.Hackers ul li{
+	display: inline-block;
+	padding: 5px;
+	font-size: 20px;
+}
+
+/* NAVEGACIÓN */
+
+.cambio{
+	color: #000000;
+	font-weight: 800;
+	font-size: 25px;
+}
+
+header section{
+	background: #272727;
+	overflow: auto;
+	width: 100%;
+}
+
+nav{
+	padding: 28px 0 10px 20px;
+	float: left;
+	width: 80px;
+}
+
+header nav ul li{
+	list-style: none;
+}
+
+header nav ul li a{
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 600;
+}
+
+.clear{
+	clear: both;
+}
+
+.icon-bars{
+	padding: 20px 0 10px 20px;
+	float: left;
+	font-size: 80px;
+	color: #FFFFFF;
+}
+
+/* BOTONES */
+aside div p a{
+	display: inline;
+	padding: 10px;
+	float: left;
+	text-decoration: none;
+	color: #c80800;
+	font-style: normal;
+	font-weight: 800;
+	margin-top: 5px;
+}
+
+body header section div.users{
+	color: #FFFFFF;
+	float: right;
+	padding: 20px;
+	font-size: 80px
+}
+
+aside{
+	background: #000000;
+	width: 100%;
+	overflow: auto;
+}
+
+/* PORTADA */
+
+.portada img{
+	width: 100%;
+	height: 500px;
+}
+
+.portada{
+	width: 100%;
+	background: #272727;
+	overflow: auto;
+}
+
+.portada h1{
+	color: #c80800;
+	font-size: 23px;
+	font-weight: 800;
+	text-align: center;
+	padding: 10px;
+	margin: 0 auto;
+}
+/*
+/* REGISTRO 
+
+.registro h1{
+	padding 20px;
+	margin: 0 auto;
+}
+
+.registro{
+		width: 100%;
+	background: #272727;
+	overflow: auto;
+	clear: both;
+}
+
+.registro div{
+	text-align: center;
+	text-decoration: blink;
+	font-size: 30px;
+	font-weight: 500;
+	font-style: oblique;
+	background: #191919;
+	color: #FFFFFF;
+	padding: 20px;
+}
+
+.registro form{
+	padding: 20px;
+	text-align: center;
+	margin: 0 auto;
+	font-size:50px;
+}
+
+.registro form input[type="text"],.registro form input[type="password"] {
+	width: 200px;
+	height: 40px;
+}
+
+.registro form input[placeholder]{
+	font-size: 15px;
+	text-transform: uppercase;
+	font-weight: 700;
+	padding: 5px;
+	text-align: center;
+}
+
+body hr{
+background: #000000;
+	color: #000000;
+	width: 100%;
+	overflow: auto;
+}
+*/
+/* FOOTER 
+
+footer{
+	width: 100%;
+	background: #272727;
+	overflow: auto;
+	border-top: 1px solid #fff;
+}
+
+footer ul li {
+	list-style: none;
+	display: inline;
+	padding-left: 30px;
+	margin-top: 30px;
+	marging-bottom: 10px;
+	float: left;
+}
+
+footer ul li a div{
+	font-size: 40px;
+	color: #FFFFFF;
+}
+
+footer h1.propiedad{
+	padding-top: 50px;
+	padding-bottom: 20px;
+	font-size: 20px;
+	font-weight: 600;
+	text-align: center;
+	color: #FFFFFF;
+}
+*/
+
